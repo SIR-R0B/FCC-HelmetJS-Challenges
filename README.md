@@ -1,1 +1,2 @@
-# FCC-HelmetJS-Challenges
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
